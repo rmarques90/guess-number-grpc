@@ -1,0 +1,5 @@
+GRPC localhost:6565/GuessNumber/MakeGuess
+
+{
+  "guess": 1
+}
